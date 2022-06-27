@@ -4,7 +4,6 @@
 - Backernd : Node.js express
 - Database : MongoDB
 
-A new Flutter project.
 
 ## Getting Started
 
