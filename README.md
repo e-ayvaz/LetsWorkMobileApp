@@ -1,4 +1,8 @@
-# work
+# Lets Work with University students. 
+
+# Frontend : Flutter 
+# Backernd : Node.js express
+# Database : MongoDB
 
 A new Flutter project.
 
