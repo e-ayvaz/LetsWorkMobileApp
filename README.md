@@ -1,10 +1,4 @@
 # Lets Work with University students. 
-
-- Frontend : Flutter 
-- Backernd : Node.js express
-- Database : MongoDB
-
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
