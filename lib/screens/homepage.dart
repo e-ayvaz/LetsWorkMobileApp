@@ -16,6 +16,7 @@ class Home extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       //appBar : Title
+      //new pr 
       appBar: AppBar(
         title: const Text("Haydi Toplanalım"),
       ),
